@@ -1,0 +1,14 @@
+layout_spectrum: 0.009610348613932729
+typography_spectrum: 0.22042168490588665
+color:
+  brandStrength: 0.05278467736206949
+  lightness: 0.6867812427226454
+  saturation: 0.433956294786185
+  rhythmicContrast: 0.21191638708114624
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: CannaCulture
