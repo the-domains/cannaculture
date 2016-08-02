@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[J&L Plants Inc.]]></title>
+        <description><![CDATA[J&L Plants Inc.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Aug 2016 16:36:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scientists Discover Another Marijuana Miracle - Combating Alzheimer's]]></title>
+            <description><![CDATA[<article><h1>Scientists Discover Another Marijuana Miracle - Combating Alzheimer's</h1><p>The following is an opinion column by R Muse* Despite the myriad advances of medical science over the past two centuries, human beings still fall victim to a wide variety of diseases, sickness, and epidemics; even in a technologically-advance nation like America. Of course all diseases, co</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b1b20d296d16a6d1d05ea3f7bdac944c/noop.jpg?input=http%3A%2F%2F15130-presscdn-0-89.pagely.netdna-cdn.com%2Fwp-content%2Fuploads%2F2015%2F06%2FWhiteHouse-MedicalMarijuanaResearch.jpg"></article>]]></description>
+            <link>http://www.politicususa.com/2016/07/24/scientists-discover-marijuana-miracle-combating-alzheimers.html</link>
+            <guid isPermaLink="false">a5af0020-b1ec-431a-941c-83a708f0ed97</guid>
+            <pubDate>Tue, 02 Aug 2016 16:36:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
