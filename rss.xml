@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[J&L Plants Inc.]]></title>
         <description><![CDATA[J&L Plants Inc.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cannaculture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 16:36:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Aug 2016 16:37:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cannaculture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Marijuana Compounds Show Promise In Protecting Brain Cells From Alzheimer's]]></title>
+            <description><![CDATA[<article><h1>Marijuana Compounds Show Promise In Protecting Brain Cells From Alzheimer's</h1><p>New research shows that cannabis compounds protect neurons from the damaging effects of amyloid beta.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/984bfe3c5bbb815033170d564916c5f6/noop.jpg?input=http%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F38407221%2F640x434.jpg%3Ffit%3Dscale"></article>]]></description>
+            <link>http://www.forbes.com/sites/daviddisalvo/2016/07/05/marijuana-compounds-show-promise-in-protecting-brain-cells-from-alzheimers/#34a5a52875ab</link>
+            <guid isPermaLink="false">5a88a29f-7c19-45ae-beda-5df64d3ecabe</guid>
+            <pubDate>Tue, 02 Aug 2016 16:37:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Scientists Discover Another Marijuana Miracle - Combating Alzheimer's]]></title>
             <description><![CDATA[<article><h1>Scientists Discover Another Marijuana Miracle - Combating Alzheimer's</h1><p>The following is an opinion column by R Muse* Despite the myriad advances of medical science over the past two centuries, human beings still fall victim to a wide variety of diseases, sickness, and epidemics; even in a technologically-advance nation like America. Of course all diseases, co</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b1b20d296d16a6d1d05ea3f7bdac944c/noop.jpg?input=http%3A%2F%2F15130-presscdn-0-89.pagely.netdna-cdn.com%2Fwp-content%2Fuploads%2F2015%2F06%2FWhiteHouse-MedicalMarijuanaResearch.jpg"></article>]]></description>
