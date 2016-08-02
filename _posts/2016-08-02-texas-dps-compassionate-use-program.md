@@ -22,11 +22,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.txdps.state.tx.us/rsd/CUP/index.htm'
 title: Texas DPS - Compassionate Use Program
-datePublished: '2016-08-02T16:37:23.566Z'
-dateModified: '2016-07-25T17:50:24.531Z'
+datePublished: '2016-08-02T16:47:37.583Z'
+dateModified: '2016-08-02T16:47:36.874Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-02-texas-dps-compassionate-use-program.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
