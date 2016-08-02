@@ -11,10 +11,13 @@ color:
     - '#3498DB'
     - '#2980B9'
 layout_spectrum: 0.009610348613932729
-name: CannaCulture
+name: J&L Cannabis
 navigation:
   - name: 'Kalanchoe '
     url: 'http://jlplants.com/jlplants.com/Home.html'
     type: external
+  - name: About Us
+    id: 862aa2c2-209a-49c2-be5b-fc28d42671e0
+    type: content
 title: J&L Plants Inc.
 description: Horticulture Specialist
