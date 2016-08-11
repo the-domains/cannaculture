@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-10T19:59:42.299Z'
+datePublished: '2016-08-11T13:08:51.990Z'
 sourcePath: _posts/2016-08-10-compassionate-use-information.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-10T19:59:19.137Z'
+dateModified: '2016-08-11T13:08:51.251Z'
 title: Compassionate Use Information
 publisher: {}
 description: Patient Registry
@@ -21,4 +21,4 @@ Patient Registry
 
 If you are interested in information on obtaining cannabis based medications from J&L Plants please contact Jarratt Irwin @ jtirwin@jlplants.com
 
-https://www.youtube.com/watch?v=S9qkYLtAhSQ
+<iframe width="640" height="360" src="https://www.youtube.com/embed/S9qkYLtAhSQ" frameborder="0" allowfullscreen\></iframe\>
