@@ -22,5 +22,8 @@ navigation:
   - name: Cannabis
     id: eb2204e2-0b94-4c69-9633-39003a70ffa0
     type: content
+  - name: Horticulture Specialist
+    id: 2612cc9d-47a1-4558-9121-e7ec4c88d2a3
+    type: content
 title: J&L Plants Inc.
 description: Horticulture Specialist
