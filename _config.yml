@@ -1,4 +1,3 @@
-layout_spectrum: 0.6916130913887173
 typography_spectrum: 0.8247521666344255
 color:
   brandStrength: 0.05278467736206949
@@ -11,6 +10,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.6916130913887173
 name: J&L Cannabis
 navigation:
   - name: About Us
@@ -25,5 +25,5 @@ navigation:
   - name: Horticulture Specialist
     id: 2612cc9d-47a1-4558-9121-e7ec4c88d2a3
     type: content
-title: J&L Plants Inc.
+title: J&L Plants
 description: Horticulture Specialist
