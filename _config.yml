@@ -1,4 +1,3 @@
-layout_spectrum: 0.6916130913887173
 typography_spectrum: 0.4095287888776511
 color:
   brandStrength: 0.05278467736206949
@@ -11,6 +10,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.6916130913887173
 name: J&L Cannabis
 navigation:
   - name: About Us
