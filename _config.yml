@@ -11,6 +11,10 @@ color:
     - '#3498DB'
     - '#2980B9'
 layout_spectrum: 0.6916130913887173
+author:
+  name: Jarratt Irwin
+  email: info@jlplants.com
+  url: jlplants.com
 name: J&L Cannabis
 navigation:
   - name: About Us
