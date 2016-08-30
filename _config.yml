@@ -1,4 +1,3 @@
-layout_spectrum: 0.744969948893413
 typography_spectrum: 0.7592262399848551
 color:
   brandStrength: 0.05278467736206949
@@ -11,6 +10,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.744969948893413
 author:
   name: Jarratt Irwin
   email: info@jlplants.com
@@ -20,14 +20,14 @@ navigation:
   - name: About Us
     id: 862aa2c2-209a-49c2-be5b-fc28d42671e0
     type: content
+  - name: Horticulture Specialist
+    id: 2612cc9d-47a1-4558-9121-e7ec4c88d2a3
+    type: content
   - name: Compassionate Use Information
     id: 94761965-bd54-4491-8320-aaac35dbe81c
     type: content
   - name: Cannabis
     id: eb2204e2-0b94-4c69-9633-39003a70ffa0
-    type: content
-  - name: Horticulture Specialist
-    id: 2612cc9d-47a1-4558-9121-e7ec4c88d2a3
     type: content
 title: J&L Plants
 description: Horticulture Specialist
