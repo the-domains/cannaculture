@@ -1,4 +1,5 @@
-typography_spectrum: 0.4095287888776511
+layout_spectrum: 0.744969948893413
+typography_spectrum: 0.7592262399848551
 color:
   brandStrength: 0.05278467736206949
   lightness: 0.6867812427226454
@@ -10,7 +11,6 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-layout_spectrum: 0.6916130913887173
 author:
   name: Jarratt Irwin
   email: info@jlplants.com
