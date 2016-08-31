@@ -1,8 +1,8 @@
 ---
 id: 2612cc9d-47a1-4558-9121-e7ec4c88d2a3
-dateModified: '2016-08-28T21:52:31.871Z'
+dateModified: '2016-08-29T15:07:47.529Z'
 title: Horticulture Specialist
-datePublished: '2016-08-28T21:56:14.093Z'
+datePublished: '2016-08-29T15:07:48.239Z'
 author: []
 sourcePath: _posts/2016-08-12-horticulture-specialist.md
 description: >-
@@ -13,7 +13,7 @@ description: >-
   continues today as the next two generations continue to grow the business.
 publisher: {}
 via: {}
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
