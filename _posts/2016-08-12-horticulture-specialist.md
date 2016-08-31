@@ -1,18 +1,18 @@
 ---
-id: 2612cc9d-47a1-4558-9121-e7ec4c88d2a3
-dateModified: '2016-08-29T15:07:47.529Z'
-title: Horticulture Specialist
-datePublished: '2016-08-29T15:07:48.239Z'
-author: []
+datePublished: '2016-08-29T15:08:14.079Z'
 sourcePath: _posts/2016-08-12-horticulture-specialist.md
+author: []
+via: {}
+dateModified: '2016-08-29T15:08:13.169Z'
+title: Horticulture Specialist
+id: 2612cc9d-47a1-4558-9121-e7ec4c88d2a3
+publisher: {}
 description: >-
   Growing is our business and our business is growing. The Irwin family has
   owned and operated commercial greenhouses since the 1960’s. The mission of the
   family’s patriarch, Jim Irwin, was to consistently produce high quality
   horticultural products in a controlled greenhouse environment. This mission
   continues today as the next two generations continue to grow the business.
-publisher: {}
-via: {}
 starred: true
 inFeed: true
 hasPage: false
