@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-30T00:00:27.671Z'
+datePublished: '2016-08-30T00:00:54.271Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T23:58:53.365Z'
+dateModified: '2016-08-30T00:00:53.774Z'
 title: Kalanchoe Specialist
 publisher: {}
 description: >-
@@ -13,9 +13,9 @@ description: >-
   and continually conducting flower trials, we are able to provide growers with
   the market’s best varieties of Kalanchoes, Geraniums, Begonias and other
   horticultural crops.  Our contacts with international industry leaders allow
-  us to offer to you the latest varieties available to the market. 
-starred: false
+  us to offer to you the latest varieties available to the market.
 sourcePath: _posts/2016-08-30-kalanchoe-specialist.md
+starred: false
 url: kalanchoe-specialist/index.html
 _type: Blurb
 
