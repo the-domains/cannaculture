@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-29T16:36:17.420Z'
+datePublished: '2016-08-30T00:03:30.540Z'
 sourcePath: _posts/2016-08-12-horticulture-specialist.md
-inFeed: false
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T16:36:16.575Z'
+dateModified: '2016-08-30T00:03:29.687Z'
 title: Horticulture Specialist
 id: 2612cc9d-47a1-4558-9121-e7ec4c88d2a3
 publisher: {}
@@ -17,7 +17,7 @@ description: >-
   continues today as the next two generations continue to grow the business.
 starred: true
 url: horticulture-specialist/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7098bb74-a77a-4ac0-a552-540ba2f711d3.jpg)
