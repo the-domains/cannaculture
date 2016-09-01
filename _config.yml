@@ -29,5 +29,8 @@ navigation:
   - name: Horticulture Specialist
     id: 2612cc9d-47a1-4558-9121-e7ec4c88d2a3
     type: content
+  - name: Kalanchoe Specialist
+    id: 3068b268-7828-432e-baf4-1731cbd88787
+    type: content
 title: J&L Plants
 description: Horticulture Specialist
