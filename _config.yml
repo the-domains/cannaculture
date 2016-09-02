@@ -1,4 +1,3 @@
-layout_spectrum: 0.6319900136440992
 typography_spectrum: 0.4602465128991753
 color:
   brandStrength: 0.05278467736206949
@@ -11,9 +10,10 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.6319900136440992
 author:
   name: Jarratt Irwin
-  email: info@jlplants.com
+  email: jtirwin@jlplants.com
   url: ''
 name: J&L
 navigation:
