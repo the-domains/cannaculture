@@ -29,5 +29,8 @@ navigation:
   - name: Cannabis
     id: eb2204e2-0b94-4c69-9633-39003a70ffa0
     type: content
+  - name: Vineyards
+    id: 14abd34f-eb03-4543-bb99-fb13a137c601
+    type: content
 title: J&L Plants
 description: Horticulture Specialist
