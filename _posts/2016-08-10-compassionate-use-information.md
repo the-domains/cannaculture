@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-30T18:45:32.417Z'
+datePublished: '2016-08-31T00:17:09.432Z'
 sourcePath: _posts/2016-08-10-compassionate-use-information.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T18:45:31.720Z'
+dateModified: '2016-08-31T00:17:08.740Z'
 title: Compassionate Use Information
 publisher: {}
 description: Patient Registry
@@ -19,4 +19,6 @@ _type: Blurb
 
 Patient Registry
 
-If you are interested in information on obtaining cannabis and cannabis based medications from J&L Plants please contact sales@jlplants.com
+If you are interested in information on obtaining cannabis and cannabis based medications from J&L Plants once licensing is completed, please contact:
+
+sales@jlplants.com
