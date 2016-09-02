@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-30T18:42:35.440Z'
+datePublished: '2016-08-30T18:44:18.875Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T18:31:57.177Z'
+dateModified: '2016-08-30T18:44:18.307Z'
 title: Vineyards
 publisher: {}
 description: >-
@@ -11,9 +11,11 @@ description: >-
   winegrape prodction and grapevine propagation.   The products and services
   offered by J&L Plants include: wine grapes, grapevine transplants, vineyard
   planning/installation and viticultural consulting.
-starred: false
 sourcePath: _posts/2016-08-30-vineyards.md
-_type: Blurb
+hasPage: true
+starred: false
+url: vineyards/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80ca8b90-a977-447a-8a8a-851789d9ff96.jpg)
