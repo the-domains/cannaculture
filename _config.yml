@@ -29,5 +29,8 @@ navigation:
   - name: Vineyards
     id: 14abd34f-eb03-4543-bb99-fb13a137c601
     type: content
+  - name: TXCUP Info
+    id: 94761965-bd54-4491-8320-aaac35dbe81c
+    type: content
 title: J&L Plants
 description: Horticulture Specialist
