@@ -20,6 +20,9 @@ navigation:
   - name: About Us
     id: 862aa2c2-209a-49c2-be5b-fc28d42671e0
     type: content
+  - name: Ornamentals
+    id: 3068b268-7828-432e-baf4-1731cbd88787
+    type: content
   - name: Cannabis
     id: eb2204e2-0b94-4c69-9633-39003a70ffa0
     type: content
@@ -28,9 +31,6 @@ navigation:
     type: content
   - name: TXCUP Info
     id: 94761965-bd54-4491-8320-aaac35dbe81c
-    type: content
-  - name: Ornamentals
-    id: 3068b268-7828-432e-baf4-1731cbd88787
     type: content
 title: J&L Plants
 description: Horticulture Specialist
