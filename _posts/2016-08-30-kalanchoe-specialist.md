@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-30T00:00:54.271Z'
+datePublished: '2016-08-30T18:46:36.030Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T00:00:53.774Z'
+dateModified: '2016-08-30T18:46:35.387Z'
 title: Kalanchoe Specialist
 publisher: {}
 description: >-
