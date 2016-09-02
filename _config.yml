@@ -23,11 +23,11 @@ navigation:
   - name: Ornamentals
     id: 3068b268-7828-432e-baf4-1731cbd88787
     type: content
-  - name: Cannabis
-    id: eb2204e2-0b94-4c69-9633-39003a70ffa0
-    type: content
   - name: Vineyards
     id: 14abd34f-eb03-4543-bb99-fb13a137c601
+    type: content
+  - name: Cannabis
+    id: eb2204e2-0b94-4c69-9633-39003a70ffa0
     type: content
   - name: TXCUP Info
     id: 94761965-bd54-4491-8320-aaac35dbe81c
