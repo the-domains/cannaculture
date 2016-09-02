@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-29T23:36:56.274Z'
+datePublished: '2016-08-30T18:45:32.417Z'
 sourcePath: _posts/2016-08-10-compassionate-use-information.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T23:36:54.708Z'
+dateModified: '2016-08-30T18:45:31.720Z'
 title: Compassionate Use Information
 publisher: {}
 description: Patient Registry
